@@ -1,0 +1,22 @@
+.post-ticker {
+	overflow: hidden;
+	display: block;
+}
+.post-ticker ul {
+	padding: 0;
+	list-style: none;}
+.post-ticker li{
+	padding: 20px 0;
+	border-bottom: 1px dashed #ccc;
+	list-style: none;}
+}
+.post-ticker a {
+	font-weight: bold;
+	color: #06f;
+}
+.post-ticker img {
+	float: left;
+	width: 40px;
+	width: 40px;
+	margin: 5px 15px 0 0;
+}
